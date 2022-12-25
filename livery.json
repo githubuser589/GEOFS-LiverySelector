@@ -13,16 +13,12 @@
                 }
             ]
         },
-        "2": {
+        "2706": {
             "index": [1],
             "parts": [0],
             "liveries": [{
-                    "name": "Classic",
-                    "texture": ["/models/aircraft/premium/cessna_172/texture_0.jpg"]
-                },
-                {
-                    "name": "Modern",
-                    "texture": ["/models/aircraft/premium/cessna_172/texture_1.jpg"]
+                    "name": "ac",
+                    "texture": ["https://i.ibb.co/MPMsD1L/image.jpg"]
                 }
             ]
         },
