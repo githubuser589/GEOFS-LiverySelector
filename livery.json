@@ -47,7 +47,7 @@
                 },
                 {
                     "name": "GOL",
-                    "texture": ["/models/aircraft/premium/737_700/texture_5.jpg"]
+                    "texture": ["https://i.ibb.co/hcR28vY/raaf.jpg"]
                 },
                 {
                     "name": "RyanAir",
