@@ -39,7 +39,7 @@
                 },
                 {
                     "name": "Southwest",
-                    "texture": ["/models/aircraft/premium/737_700/texture_3.jpg"]
+                    "texture": ["https://i.ibb.co/g9HGJff/b737-700.jpg"]
                 },
                 {
                     "name": "WestJet (old design)",
