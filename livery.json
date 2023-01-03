@@ -35,7 +35,7 @@
                 },
                 {
                     "name": "ANA",
-                    "texture": ["/models/aircraft/premium/737_700/texture_2.jpg"]
+                    "texture": ["https://i.ibb.co/fC34Qsb/b737-700.png"]
                 },
                 {
                     "name": "Southwest",
