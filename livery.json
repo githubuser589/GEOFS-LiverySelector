@@ -27,7 +27,7 @@
             "parts": [0],
             "liveries": [{
                     "name": "KLM",
-                    "texture": ["/models/aircraft/premium/737_700/texture_0.jpg"]
+                    "texture": ["https://i.ibb.co/xs9zDdP/b737-700.jpg"]
                 },
                 {
                     "name": "United (old design)",
