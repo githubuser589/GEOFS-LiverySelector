@@ -31,7 +31,7 @@
                 },
                 {
                     "name": "United (old design)",
-                    "texture": ["/models/aircraft/premium/737_700/texture_1.jpg"]
+                    "texture": ["https://i.ibb.co/h94gy7P/b737-700.jpg"]
                 },
                 {
                     "name": "ANA",
